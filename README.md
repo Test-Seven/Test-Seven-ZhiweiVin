@@ -1,6 +1,7 @@
 #第三堂课作业
 
 1. 反编译任意apk，并且截图
+ ![5e9af502-428a-4aeb-ad8e-c946a80e2cff](https://cloud.githubusercontent.com/assets/15674756/13882142/22382042-ed5f-11e5-87d8-ef2e763f761f.png)
 
 2. aapt 的命令查询权限，并且截图
 
