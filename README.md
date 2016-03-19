@@ -4,6 +4,8 @@
  ![5e9af502-428a-4aeb-ad8e-c946a80e2cff](https://cloud.githubusercontent.com/assets/15674756/13882142/22382042-ed5f-11e5-87d8-ef2e763f761f.png)
 
 2. aapt 的命令查询权限，并且截图
+ ![aapt](https://cloud.githubusercontent.com/assets/15674756/13896614/3622e27c-edcd-11e5-9a22-41b6fa9dda8b.png)
+
 
 3. 编写3种不通切入点的android monkey的命令，并成功运行同时说明切入点是什么
 
