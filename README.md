@@ -7,7 +7,7 @@
  ![aapt](https://cloud.githubusercontent.com/assets/15674756/13896614/3622e27c-edcd-11e5-9a22-41b6fa9dda8b.png)
 
 
-3. 编写3种不通切入点的android monkey的命令，并成功运行同时说明切入点是什么
+3. 编写3种不同切入点的android monkey的命令，并成功运行同时说明切入点是什么
 
 4. 请找出motion和touch对应的源码里的方法，并找出Monkey工具实现点击的最基础的方法是什么
 
